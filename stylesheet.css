@@ -381,15 +381,14 @@ a { text-decoration: none; color: inherit; transition: var(--transition); }
 .tech-icon.html { color: #e34F26; }
 .tech-icon.css { color: #1572B6; }
 .tech-icon.js { color: #f7df1e; }
-.tech-icon.react { color: #61dafb; }
-.tech-icon.tailwind { color: #06B6D4; }
 .tech-icon.python { color: #3776ab; }
-.tech-icon.node { color: #339933; }
-.tech-icon.php { color: #777bb4; }
-.tech-icon.mysql { color: #00758f; }
 .tech-icon.git { color: #f05032; }
 .tech-icon.java { color: #f89820; }
 .tech-icon.figma { color: #f24e1e; }
+.tech-icon.framer { color: #6b4eff; }
+.tech-icon.canva { color: #00c4cc; }
+.tech-icon.make { color: #6d4aff; }
+
 
 .tech-level {
     font-size: 0.85rem;
